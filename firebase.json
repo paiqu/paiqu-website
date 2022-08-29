@@ -1,6 +1,7 @@
 {
   "hosting": {
-    "public": "build",
+    "site": "paiqu-website",
+    "public": "out",
     "ignore": [
       "firebase.json",
       "**/.*",
